@@ -1,0 +1,185 @@
+html {
+    scroll-behavior: smooth;
+}
+.custom-navbar{
+    background-color: #80cbc4;             
+    z-index: 100;
+}
+.home-page-tag-line{
+    color: black;
+    font-size: 33px;
+    font-family: "Work Sans";
+}
+.home-page{    
+    background-image: radial-gradient(#d4efdf, #ffffff);       
+}
+.my-name{
+    font-family: "Yellowtail";
+    font-size: 66px;
+    color: #009688;
+}
+.my-image{
+    width: 60%;
+    border: #80cbc4 2px solid;
+    border-radius: 20px;
+    margin: auto;
+}
+.know-more-a{
+    color: black;
+    text-decoration: none;   
+}
+.know-more-a:hover{    
+    text-decoration: none;    
+    color: white;
+}
+.know-more, .download-button{
+    background-color: #80cbc4;    
+    font-size: 17px;
+}
+.know-more:hover, .download-button:hover{
+    background-color: #009688;
+    color: white;
+}
+.nav-link{
+    color: black !important;
+}
+.about-me-heading{
+    font-family: "Work Sans";
+    font-size: 24px;
+    font-weight: bold;
+}
+.intro-para{
+    font-family: "Work Sans";
+    font-size: 16px;
+}
+.about-me{
+    background-color: #d4efdf;    
+}
+.timeline-image{
+    width: 80%;
+    border: #80cbc4 2px solid;
+    border-radius: 20px;
+}
+.timeline-sh{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
+.timeline-desc{
+    color: black;
+    font-family: "Work Sans";
+    font-size: 18px;       
+}
+.Coding-travel{
+    width: 70%;
+    border: #80cbc4 2px solid;
+    border-radius: 20px;
+}
+.projects{
+    background-image: linear-gradient(to left, #ffffff, #d4efdf);     
+}
+.projects-heading{
+    color: black;
+    font-family: "Work Sans";
+}
+.ul-para{
+    color: black;
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-weight: 600;
+}
+.ts-container{    
+    background-color: white;
+    border: #009688 solid 2px;      
+}
+.ul-span{
+    font-weight: bold;
+}
+ul{
+    list-style-type: square;    
+}
+li::marker{
+    color: #009688;    
+}
+.cert-sh{
+    display: inline;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: "Work Sans";
+}
+.cert-p{
+    display: inline;
+    font-size: 18px;    
+    font-family: "Work Sans";
+}
+.certifications{    
+    background-color: white;
+    border: #009688 solid 2px;  
+}
+.my-work{
+    background-color: #ffffff;
+}
+.my-work-heading{
+    color:black;
+    font-size: 32px;
+    font-family: "Work Sans";
+    font-weight: bold;
+}
+ul{
+    font-family: "Work Sans";
+}
+.pro-head{
+    font-size: 22px;
+    font-family: "Work Sans";
+    font-weight: bold;
+}
+.pro-para{
+    font-family: "Work Sans";
+    font-size: 15px;
+}
+.pro-link{
+    font-size: 20px;
+    color: #009688;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Work Sans";
+}
+.proj-desc{
+    border: solid #009688 2px;      
+    background-color: #d4efdf;
+    width: 90%;    
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black; /* Change to your desired color */
+}
+.resume-section{
+    border: #009688 solid 2px;
+}
+.contact-me{    
+    background-color: #009688;      
+}
+.contact-head{
+    color: white;
+    font-family: "Yellowtail";
+}
+.ic-sh{
+    font-family: "Work Sans";
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.ic-p, .con-info{
+    text-decoration: none;
+    font-family: "Work Sans";
+    display: inline;
+    font-size: 20px;
+    color: white;
+}
+.for-border{
+    border: double white 2px;    
+}
+.logo{
+    width: 100px;        
+}
